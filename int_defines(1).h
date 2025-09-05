@@ -1,0 +1,5 @@
+#define PIN_FUNC2 1
+#define EINT0_INPUT_PIN PIN_FUNC2 
+#define EINT0_PIN 16//p0.16
+#define EINT0_VIC_CHNO 14
+#define EINT0_STATUS_LED 15
