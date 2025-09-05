@@ -40,15 +40,16 @@ The project automates attendance using **RFID technology** with a **Linux-based 
 S.No, USER ID, USER NAME, DATE, IN TIME, OUT TIME, WORKING HOURS, STATUS
 1, 12345, Maruthi, 2025-09-05, 09:00, 17:30, 8.5, OUT
 2, 67890, chari, 2025-09-05, 09:15, 18:00, 8.75, OUT
-##🚀 Features
-   1.RFID authentication (Admin/User)
-   2.IN/OUT logging with RTC
-   3.Working hours calculation
-   4.Admin options (Add, Delete, Edit users)
-   5.EEPROM storage for Admin card
-   6.UART communication with PC
-   7.Interrupt-driven Admin/RTC updates
-##🔮 Future Scope
+## 🗂️🚀 Features
+- RFID authentication (Admin/User)  
+- Real-time IN/OUT logging with RTC  
+- Automatic working hours calculation  
+- Admin options: Add, Delete, Edit users  
+- EEPROM storage for Admin card data  
+- UART communication with PC (Linux database)  
+- Interrupt-driven Admin/RTC updates  
+- Attendance stored in CSV format for easy analysis  
+## 🗂️🔮 Future Scope
 1.Cloud-based attendance
 2.Web dashboard visualization
 3.Hybrid RFID + Biometric
