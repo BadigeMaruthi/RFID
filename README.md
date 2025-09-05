@@ -50,8 +50,8 @@ S.No, USER ID, USER NAME, DATE, IN TIME, OUT TIME, WORKING HOURS, STATUS
 - Interrupt-driven Admin/RTC updates  
 - Attendance stored in CSV format for easy analysis  
 ## 🗂️🔮 Future Scope
-1.Cloud-based attendance
-2.Web dashboard visualization
-3.Hybrid RFID + Biometric
-4.Mobile notifications
+   1.Cloud-based attendance
+   2.Web dashboard visualization
+   3.Hybrid RFID + Biometric
+   4.Mobile notifications
 
